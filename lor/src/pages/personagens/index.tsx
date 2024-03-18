@@ -70,7 +70,7 @@ function Personagens() {
              friendship and sacrifice in the "Lord of the Rings" saga.`}
         />
         <PersonagemCard
-          imagem='assets/bilbo.png'
+          imagem='assets/biriba.png'
           alt='bilbo'
           title='Bilbo'
           descricao={`
@@ -126,7 +126,7 @@ function Personagens() {
       {/*fim do grid preseonagen */}
 
       <Rodape/>
-      
+
     </ChakraProvider>
   )
 }
