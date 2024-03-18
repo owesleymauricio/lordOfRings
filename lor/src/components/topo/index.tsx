@@ -85,6 +85,7 @@ function Topo() {
                         </Link>
                     </Flex>
                     <IconButton
+                        backgroundColor={'#B8860B'}
                         aria-label='Abrir menu'
                         icon={<HamburgerIcon />}
                         display={{ base: 'flex', md: 'none' }} // Mostrar o ícone do hamburguer na versão mobile e ocultar na versão desktop
