@@ -39,7 +39,7 @@ const PersonagemCard: React.FC<personagens> = ({
                             <Heading color={'#DAA520'} size='lg' textAlign={'center'}>
                                 {title}
                             </Heading>
-                            <Text>{descricao}</Text>
+                            <Text color={'#fff'}>{descricao}</Text>
                         </Stack>
                     </CardBody>
                 </Card>

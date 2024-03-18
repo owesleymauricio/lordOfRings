@@ -106,8 +106,10 @@ function SecaoCards() {
                                 borderRadius='lg'
                             />
                             <Stack mt='6' spacing='3'>
-                                <Heading size='md'>{movie.title}</Heading>
-                                <Text>{movie.overview}</Text>
+                                <Heading color={'#DAA520'} size='md'>{movie.title}</Heading>
+                                <Text
+                                color={'#fff'}
+                                >{movie.overview}</Text>
                              
                             </Stack>
                         </CardBody>
