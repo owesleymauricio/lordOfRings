@@ -79,7 +79,7 @@ function SecaoCards() {
         backgroundSize='100% 100%' // Ajusta a imagem para ocupar todo o espaço do Grid
         backgroundPosition='center'
         backgroundRepeat='no-repeat' // Evita que a imagem se repita
-        maxW={'1200px'}
+        maxW={'1300px'}
         marginRight={'auto'}
         marginLeft={'auto'}
             templateColumns="repeat(auto-fill, minmax(250px, 1fr))"

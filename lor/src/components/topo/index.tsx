@@ -23,7 +23,7 @@ function Topo() {
     return (
         <>
             <Flex
-                maxW={'1200px'}
+                maxW={'1300px'}
                 height={'90px'}
                 bg={'#000'}
                 marginLeft={'auto'}
